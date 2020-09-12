@@ -18,6 +18,8 @@ functions:
     handler: src/case4.handle
   case5:
     handler: src/case5.handle
-
-
-
+  case6:
+    handler: src/case6.handle
+    timeout: 1
+  case7:
+    handler: src/case7.handle
